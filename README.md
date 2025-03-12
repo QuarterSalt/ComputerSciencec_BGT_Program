@@ -11,8 +11,7 @@ This project is a Python implementation of a game designed for a Computer Scienc
 ## Features (Planned/In Progress)
 
 *   Leaderboard Tracking: Keeps track of player scores and rankings.
-*   Game Logic: Implements the core rules of the game (which are still being finalized).
-*   [Add other planned features here as you develop them]
+*   Game Logic: Implements the core rules of the game.
 
 ## Contributing
 
