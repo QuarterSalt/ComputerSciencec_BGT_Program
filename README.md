@@ -17,12 +17,3 @@ This project is a Python implementation of a game designed for a Computer Scienc
 ## Contributing
 
 I'm open to suggestions and contributions! However, please be aware that the project is currently undergoing significant refactoring. If you have ideas, feel free to open an issue to discuss them before submitting a pull request.
-
-## Current Status
-
-Actively refactoring and improving the code. The goal is to:
-
-*   Reduce code duplication.
-*   Improve code readability and maintainability.
-*   Implement a more robust and well-defined game logic.
-
