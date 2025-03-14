@@ -1,4 +1,4 @@
-# NOTE: correct file path to use -> GitHub CS Game Program/ComputerSciencec_BGT_Program/ComputerSciencec_BGT_Program/ComputerSciencec_BGT_Program-main
+# NOTE: correct file path to use -> GitHub CS Game Program/ComputerSciencec_BGT_Program/ComputerSciencec_BGT_Program-main
 
 # ComputerSciencec_BGT_Program
 
