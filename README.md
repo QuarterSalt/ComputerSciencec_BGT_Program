@@ -1,3 +1,5 @@
+# NOTE: correct file path to use -> GitHub Cs Game Prgogram
+
 # ComputerSciencec_BGT_Program
 
 A work-in-progress Python project for a CS board game tournament.
